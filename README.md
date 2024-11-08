@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://neon.tech/_next/static/chunks/src/images/logo-black.4cffa5b1beb857a5.svg" height="auto" width="400" />
+<img src="https://neon.tech/favicon/favicon.png" height="auto" width="200" />
 <br />
 <h1>Neon Database CLI</h1>
 <p>
